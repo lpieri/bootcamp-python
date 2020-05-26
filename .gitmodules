@@ -1,7 +1,3 @@
-[submodule "d01"]
-	path = d01
-	url = https://github.com/lpieri/d01.git
-
 [submodule "d03"]
 	path = d03
 	url = https://github.com/lpieri/d03.git
